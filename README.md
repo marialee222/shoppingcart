@@ -46,4 +46,3 @@ Future improvements for the Shopping Cart App include:
 
 ### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-![image](https://github.com/marialee222/shoppingcart/assets/150623001/cfa68dde-9f97-479c-bb9e-fa14fc3bb741)
