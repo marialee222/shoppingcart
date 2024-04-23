@@ -21,10 +21,10 @@ To run the Shopping App on your machine, follow these steps:
 	2. Navigate to the directory where you cloned the shopping cart repository in your terminal.
  
 	3. Install the necessary dependencies by running:
-	 - npm install 
+	 - npm run develop
 
 	4. Start the development server by running:
-	 - npm start
+	 - npm run start
 
 	5. Once the development server starts, open your web browser and navigate to:
    	 - http://localhost:1337
