@@ -10,6 +10,7 @@ Features:
  - Users can view the contents of their shopping cart, including the items added, their costs, and the total amount.
  - Users can proceed to checkout to complete their purchase, with the app providing a total amount for the items in the cart.
  - The app includes a functionality to restock products, allowing the user to update the list of available items from an external data source.
+![shoppingcart](https://github.com/marialee222/shoppingcart/assets/150623001/a33548d7-7e62-44eb-acb8-7e48bc813a59)
 
 
 ## How to Run
